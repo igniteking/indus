@@ -8,7 +8,7 @@ function Footer() {
           <div className="call-box text-center mb-80">
             <h2>
               <a href="page-contact.html">
-                Let's <span className="stroke"> Discuss</span>
+                Let&#39;s <span className="stroke"> Discuss</span>
               </a>
               <span className="arrow">
                 <svg

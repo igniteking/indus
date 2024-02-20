@@ -16,7 +16,7 @@ export default function Home() {
                   <div className="col-lg-5 offset-lg-1">
                     <div className="text">
                       <p>
-                        Through our years of experience, we've also learned that
+                        Through our years of experience, we&#39;ve also learned that
                         while each channel has its own set of advantages.
                       </p>
                     </div>
