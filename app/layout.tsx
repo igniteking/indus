@@ -11,7 +11,7 @@ import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: "Indus",
-  description: "Geekfolio - Multi-Purpose HTML5 Template",
+  description: "Indus Template | Zaidan khan",
   keywords: [
     "zaidan",
     "zaidankhan",
