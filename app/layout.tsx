@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 
 import Addtional from "@/components/Addtional";
-import Loader from "@/components/Loader";
 
 import "../public/assets/css/plugins.css";
 import "../public/assets/css/style.css";
@@ -31,13 +30,24 @@ export default function RootLayout({
     <html lang="en">
       <Includes />
       <body className="home-main-crev main-bg" suppressHydrationWarning={true}>
-        {/* Start Loading */}
-        <Loader />
-        {/* StartEnd Loading */}
+        <div className="loader-wrap">
+          <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
+            <path id="svg" d="M0,1005S175,995,500,995s500,5,500,5V0H0Z"></path>
+          </svg>
 
+          <div className="loader-wrap-heading">
+            <div className="load-text">
+              <span>L</span>
+              <span>o</span>
+              <span>a</span>
+              <span>d</span>
+              <span>i</span>
+              <span>n</span>
+              <span>g</span>
+            </div>
+          </div>
+        </div>
         <div className="cursor"></div>
-
-        {/* Start progress-scroll-button */}
         <div className="progress-wrap cursor-pointer">
           <svg
             className="progress-circle svg-content"
@@ -48,18 +58,13 @@ export default function RootLayout({
             <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
           </svg>
         </div>
-        {/* End progress-scroll-button */}
-
         <div id="smooth-wrapper">
           <div id="smooth-content">
-            {/* Start Navbar */}
             <Navbar />
-            {/* End Navbar */}
             {children}
             <Footer />
           </div>
         </div>
-
         <Addtional />
       </body>
     </html>
