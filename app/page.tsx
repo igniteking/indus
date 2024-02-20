@@ -81,7 +81,7 @@ export default function Home() {
           </div>
         </div>
         <div className="main-img">
-          <img src="assets/imgs/background/14.jpg" alt="" />
+          <img src="https://geekfolio-nextjs.themescamp.com/dark/assets/imgs/background/14.jpg" alt="" />
         </div>
         <div
           className="bg-pattern bg-img"
@@ -154,14 +154,14 @@ export default function Home() {
                 <div className="img1">
                   <div className="o-hidden">
                     <div className="imago wow">
-                      <img src="assets/imgs/about/01.jpg" alt="" />
+                      <img src="https://geekfolio-nextjs.themescamp.com/dark/assets/imgs/about/01.jpg" alt="" />
                     </div>
                   </div>
                 </div>
                 <div className="img2">
                   <div className="o-hidden">
                     <div className="imago wow">
-                      <img src="assets/imgs/about/1.jpg" alt="" />
+                      <img src="https://geekfolio-nextjs.themescamp.com/dark/assets/imgs/about/1.jpg" alt="" />
                     </div>
                   </div>
                 </div>
@@ -504,7 +504,7 @@ export default function Home() {
         <div className="panel mt-30">
           <div className="item">
             <div className="img">
-              <img src="./assets/imgs/portfolio/4/01.jpg" alt="" />
+              <img src="https://geekfolio-nextjs.themescamp.com/dark/assets/imgs/portfolio/4/01.jpg" alt="" />
             </div>
             <div className="cont d-flex align-items-end">
               <div>
@@ -522,7 +522,7 @@ export default function Home() {
         <div className="panel mt-30">
           <div className="item">
             <div className="img">
-              <img src="./assets/imgs/portfolio/4/02.jpg" alt="" />
+              <img src="https://geekfolio-nextjs.themescamp.com/dark/assets/imgs/portfolio/4/02.jpg" alt="" />
             </div>
             <div className="cont d-flex align-items-end">
               <div>
@@ -540,7 +540,7 @@ export default function Home() {
         <div className="panel mt-30">
           <div className="item">
             <div className="img">
-              <img src="./assets/imgs/portfolio/4/03.jpg" alt="" />
+              <img src="https://geekfolio-nextjs.themescamp.com/dark/assets/imgs/portfolio/4/03.jpg" alt="" />
             </div>
             <div className="cont d-flex align-items-end">
               <div>
@@ -558,7 +558,7 @@ export default function Home() {
         <div className="panel mt-30">
           <div className="item">
             <div className="img">
-              <img src="./assets/imgs/portfolio/4/04.jpg" alt="" />
+              <img src="https://geekfolio-nextjs.themescamp.com/dark/assets/imgs/portfolio/4/04.jpg" alt="" />
             </div>
             <div className="cont d-flex align-items-end">
               <div>
@@ -576,7 +576,7 @@ export default function Home() {
         <div className="panel mt-30">
           <div className="item">
             <div className="img">
-              <img src="./assets/imgs/portfolio/4/05.jpg" alt="" />
+              <img src="https://geekfolio-nextjs.themescamp.com/dark/assets/imgs/portfolio/4/05.jpg" alt="" />
             </div>
             <div className="cont d-flex align-items-end">
               <div>
@@ -594,7 +594,7 @@ export default function Home() {
         <div className="panel mt-30">
           <div className="item">
             <div className="img">
-              <img src="./assets/imgs/portfolio/4/05.jpg" alt="" />
+              <img src="https://geekfolio-nextjs.themescamp.com/dark/assets/imgs/portfolio/4/06.jpg" alt="" />
             </div>
             <div className="cont d-flex align-items-end">
               <div>
@@ -854,7 +854,7 @@ export default function Home() {
                 </div>
               </div>
               <div className="img-qoute">
-                <img src="./assets/imgs/about/sq1.jpg" alt="" />
+                <img src="https://geekfolio-nextjs.themescamp.com/dark/assets/imgs/about/sq1.jpg" alt="" />
               </div>
             </div>
             <div className="col-lg-7 wow fadeIn" data-wow-delay=".4s">
@@ -894,7 +894,7 @@ export default function Home() {
                           <div>
                             <div className="img circle-60">
                               <img
-                                src="./assets/imgs/testim/1.jpg"
+                                src="https://geekfolio-nextjs.themescamp.com/dark/assets/imgs/testim/1.jpg"
                                 alt=""
                                 className="circle-img"
                               />
@@ -932,7 +932,7 @@ export default function Home() {
                           <div>
                             <div className="img circle-60">
                               <img
-                                src="./assets/imgs/testim/2.jpg"
+                                src="https://geekfolio-nextjs.themescamp.com/dark/assets/imgs/testim/2.jpg"
                                 alt=""
                                 className="circle-img"
                               />
@@ -1067,7 +1067,7 @@ export default function Home() {
                 <div className="row rest">
                   <div className="col-md-6">
                     <div className="img">
-                      <img src="./assets/imgs/blog/h1.jpg" alt="" />
+                      <img src="https://geekfolio-nextjs.themescamp.com/dark/assets/imgs/sass-img/blog/1.jpg" alt="" />
                     </div>
                   </div>
                   <div className="col-md-6 valign">
@@ -1094,7 +1094,7 @@ export default function Home() {
                 <div className="row rest">
                   <div className="col-md-6">
                     <div className="img">
-                      <img src="./assets/imgs/blog/h4.jpg" alt="" />
+                      <img src="https://geekfolio-nextjs.themescamp.com/dark/assets/imgs/sass-img/blog/2.jpg" alt="" />
                     </div>
                   </div>
                   <div className="col-md-6 valign">
