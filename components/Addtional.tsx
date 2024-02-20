@@ -22,7 +22,6 @@ function Addtional() {
 
       <Script
         src="assets/js/plugins.js"
-        strategy="lazyOnload"
         onLoad={() =>
           console.log(`Script loaded correctly, plugins has been populated`)
         }
@@ -30,14 +29,12 @@ function Addtional() {
 
       <Script
         src="assets/js/gsap.min.js"
-        strategy="lazyOnload"
         onLoad={() =>
           console.log(`Script loaded correctly, gsap has been populated`)
         }
       ></Script>
       <Script
         src="assets/js/ScrollSmoother.min.js"
-        strategy="lazyOnload"
         onLoad={() =>
           console.log(
             `Script loaded correctly, ScrollSmoother has been populated`
@@ -46,7 +43,6 @@ function Addtional() {
       ></Script>
       <Script
         src="assets/js/ScrollTrigger.min.js"
-        strategy="lazyOnload"
         onLoad={() =>
           console.log(
             `Script loaded correctly, ScrollTrigger has been populated`
@@ -55,21 +51,18 @@ function Addtional() {
       ></Script>
       <Script
         src="assets/js/hscroll.js"
-        strategy="lazyOnload"
         onLoad={() =>
           console.log(`Script loaded correctly, hscroll has been populated`)
         }
       ></Script>
       <Script
         src="assets/js/smoother-Script.js"
-        strategy="lazyOnload"
         onLoad={() =>
           console.log(`Script loaded correctly, smoother has been populated`)
         }
       ></Script>
       <Script
         src="./assets/js/Scripts.js"
-        strategy="lazyOnload"
         onLoad={() =>
           console.log(`Script loaded correctly, Scripts has been populated`)
         }
