@@ -29,8 +29,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <Includes />
-      <body className="home-main-crev main-bg" suppressHydrationWarning={true}>
-        <div className="loader-wrap">
+      <body className="home-main-crev main-bg">
+        {/* <div className="loader-wrap">
           <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
             <path id="svg" d="M0,1005S175,995,500,995s500,5,500,5V0H0Z"></path>
           </svg>
@@ -46,7 +46,7 @@ export default function RootLayout({
               <span>g</span>
             </div>
           </div>
-        </div>
+        </div> */}
         <div className="cursor"></div>
         <div className="progress-wrap cursor-pointer">
           <svg
