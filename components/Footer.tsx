@@ -33,7 +33,7 @@ function Footer() {
                   <h6>Address</h6>
                 </div>
                 <div className="text">
-                  <p>Germany — 785 15h Street, Office 478 Berlin, De 81566</p>
+                  <p>Rajasthan — 785 15h Street, Office 478 Jaipur, De 81566</p>
                 </div>
               </div>
             </div>
@@ -44,10 +44,10 @@ function Footer() {
                 </div>
                 <div className="text">
                   <p className="mb-10">
-                    <a href="#0">hello@design.com</a>
+                    <a href="#0">khanzaidan786@gmial.com</a>
                   </p>
                   <h5>
-                    <a href="#">+1 840 841 25 69</a>
+                    <a href="#">+91-7727084375</a>
                   </h5>
                 </div>
               </div>
@@ -102,13 +102,10 @@ function Footer() {
                 <div className="copyright d-flex">
                   <div className="ml-auto">
                     <p className="fz-13">
-                      © 2023 Geekfolio is Proudly Powered by{" "}
+                      © 2024 This Website is Proudly developed by{" "}
                       <span className="underline">
-                        <a
-                          href="https://themeforest.net/user/ui-themez"
-                          target="_blank"
-                        >
-                          Ui-ThemeZ
+                        <a href="https://github.com/igniteking" target="_blank">
+                          Micheal Khan
                         </a>
                       </span>
                     </p>
