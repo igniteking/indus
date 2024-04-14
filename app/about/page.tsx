@@ -11,7 +11,7 @@ export default function Home() {
                 <div className="caption">
                   <h6 className="sub-title">Who We Are ?</h6>
                   <h1 className="fz-55">
-                    We're a digital agency based in Valencia.
+                    We&apos;re a digital agency based in Valencia.
                   </h1>
                 </div>
               </div>
@@ -270,7 +270,7 @@ export default function Home() {
                 <div className="cont">
                   <div>
                     <h6 className="sub-title mb-15">Since From 2008</h6>
-                    <h3>Keep pushing forward. We've got your back.</h3>
+                    <h3>Keep pushing forward. We&apos;ve got your back.</h3>
                     <div className="text mt-10 pb-30 bord-thin-bottom">
                       <p>
                         Things go wrong have questions. We’ve understand. So we
