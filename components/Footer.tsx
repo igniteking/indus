@@ -94,7 +94,7 @@ function Footer() {
               <div className="col-lg-4">
                 <div className="logo">
                   <a href="#">
-                    <img src="./assets/imgs/logo-light.png" alt="" />
+                    <img src="./logo.png" alt="" />
                   </a>
                 </div>
               </div>
