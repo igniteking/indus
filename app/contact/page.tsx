@@ -47,7 +47,7 @@ export default function Home() {
                   <div className="caption">
                     <h6 className="sub-title">Contact Us</h6>
                     <h1 className="fz-55">
-                      Let's make <br /> your brand brilliant!
+                      Let&apos;s make <br /> your brand brilliant!
                     </h1>
                   </div>
                 </div>
@@ -71,7 +71,7 @@ export default function Home() {
                   <div className="sec-lg-head mb-80">
                     <h6 className="dot-titl-non mb-10">Get In Touch</h6>
                     <h2 className="fz-50">
-                      Let's get in <br /> touch with us.
+                      Let&apos;s get in <br /> touch with us.
                     </h2>
                     <p className="fz-15 mt-10">
                       If you would like to work with us or just want to get in
@@ -152,7 +152,7 @@ export default function Home() {
                               type="submit"
                               className="butn butn-md butn-bord radius-30"
                             >
-                              <span className="text">Let's Talk</span>
+                              <span className="text">Let&apos;s Talk</span>
                             </button>
                           </div>
                         </div>
